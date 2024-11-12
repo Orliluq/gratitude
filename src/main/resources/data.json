@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "senderName": "Alicia Pérez",
+    "messageContent": "Thank you for always being there for me.",
+    "dateCreated": "2024-11-01T08:30:00",
+    "popularityScore": 5
+  },
+  {
+    "id": 2,
+    "senderName": "Carlos Morales",
+    "messageContent": "I appreciate your help with the project.",
+    "dateCreated": "2024-11-02T09:45:00",
+    "popularityScore": 3
+  },
+  {
+    "id": 3,
+    "senderName": "Ana González",
+    "messageContent": "Your support means a lot to me.",
+    "dateCreated": "2024-11-03T10:15:00",
+    "popularityScore": 4
+  },
+  {
+    "id": 4,
+    "senderName": "Alexander Luque",
+    "messageContent": "Thank you for your guidance and advice.",
+    "dateCreated": "2024-11-04T11:00:00",
+    "popularityScore": 6
+  },
+  {
+    "id": 5,
+    "senderName": "Oliver Zambrano",
+    "messageContent": "I am grateful for your kindness.",
+    "dateCreated": "2024-11-05T12:30:00",
+    "popularityScore": 2
+  },
+  {
+    "id": 6,
+    "senderName": "Frank Melendez",
+    "messageContent": "Thank you for your patience and understanding.",
+    "dateCreated": "2024-11-06T13:45:00",
+    "popularityScore": 7
+  },
+  {
+    "id": 7,
+    "senderName": "Graciela Mora",
+    "messageContent": "I appreciate your hard work and dedication.",
+    "dateCreated": "2024-11-07T14:00:00",
+    "popularityScore": 8
+  },
+  {
+    "id": 8,
+    "senderName": "Henry Flavia",
+    "messageContent": "Thank you for being a great friend.",
+    "dateCreated": "2024-11-08T15:15:00",
+    "popularityScore": 9
+  },
+  {
+    "id": 9,
+    "senderName": "Ivanna Alvarez",
+    "messageContent": "I am thankful for your support.",
+    "dateCreated": "2024-11-09T16:30:00",
+    "popularityScore": 1
+  },
+  {
+    "id": 10,
+    "senderName": "´Juan García",
+    "messageContent": "Thank you for your generosity.",
+    "dateCreated": "2024-11-10T17:45:00",
+    "popularityScore": 10
+  }
+]
