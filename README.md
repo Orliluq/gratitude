@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD321C&background=3B3B3B00&center=true&width=435&lines=Backend+Challenge+(Java);%F0%9F%A6%83+%C2%A1Gratitude+Messages+API!)](https://git.io/typing-svg"/></a><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD321C&background=3B3B3B00&center=true&width=435&lines=Backend+Challenge+(Java);%F0%9F%A6%83+%C2%A1Gratitude+Messages+API!"/></a><br>
 </p>
 
 This project consists of a **RESTful API** developed in **Java** to allow users to send, store, and list gratitude messages. Users can share gratitude messages, which are stored in a database and can be queried according to certain parameters such as date or popularity.
